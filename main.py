@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 import matplotlib.pyplot as plt
-#testing
+#testing1
 # Feature set containing (x,y) values of 25 known/training data
 trainData = np.random.randint(0, 100, (25,2)).astype(np.float32)
 # Label each one either Red or Blue with numbers 0 and 1
